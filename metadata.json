@@ -1,0 +1,6 @@
+{
+  "name": "PyBinary Shield",
+  "description": "Obfuscate Python source code and compile into secure binary executables for Android Termux backend.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
